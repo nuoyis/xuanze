@@ -3,4 +3,4 @@
 在2023年4月14日前，由本人提供每日维护  
 之后的时间,交给其他人提交维护(我不定期维护)
 
-项目地址:https://xuanzedoc.nuoyis.top
+项目地址:https://xuanzedoc.nuoyis.com
