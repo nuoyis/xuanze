@@ -3,9 +3,9 @@
 
 **任何人有提交的权利,下载权利** 
 
-**以下即是选择题集合(可能有重复)** 
+[文档提交地址](https://gitee.com/nuoyis/xuanze/blob/main/xuanze.md)  
 
-[文档提交地址](https://gitee.com/nuoyis/xuanze/blob/main/xuanze.md)
+**以下即是选择题集合(可能有重复)** 
 
 编写语法:
 
@@ -245,4 +245,4 @@ n位无符号二进制整数X，可以表示2的n次方个数
 
 本md来自于网络，如果有任何利益影响，请发送邮件至wkkjonlykang@vip.qq.com，本站会尽快处理 
 
-@2023 [诺依阁](https://www.nuoyis.com)
+@2023-至今 [诺依阁](https://www.nuoyis.com) 保留部分设计著作权
